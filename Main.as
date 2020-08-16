@@ -28,7 +28,7 @@
 		{
 			title = new TextField();
 			title.defaultTextFormat = new TextFormat(null, 30, 0xFF0000, true);
-			title.text = "Hello world";
+			title.text = "Hello GitHub!";
 			title.autoSize = TextFieldAutoSize.CENTER;
 			title.x = this.stage.stageWidth/2 - title.width/2;
 			title.y = this.stage.stageHeight/2 - this.height/2;
