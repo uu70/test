@@ -33,7 +33,6 @@
 			title.x = this.stage.stageWidth/2 - title.width/2;
 			title.y = this.stage.stageHeight/2 - this.height/2;
 			this.addChild(title);
-			trace(title);
 		}
 
 	}
